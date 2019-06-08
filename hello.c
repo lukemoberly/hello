@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Hello Luke!\n");
+  pritnf("My major is undeclared.")
 
   return 0;
 }
