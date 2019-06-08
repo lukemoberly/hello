@@ -12,6 +12,7 @@ int main(int argc, char **argv) {
 
   printf("Hello Luke!\n");
   printf("My major is undeclared.")
+  printf("Trial run")
 
   return 0;
 }
